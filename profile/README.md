@@ -4,3 +4,5 @@ Organizzazione per la creazione del progetto del corso di Ingegneria del Softwar
 In questa organizzazione si trovano tutte le repository con i documenti di progetto e tutti i file coinvolti nella realizzazione del nostro progetto.
 
 Team-25 composto da: Gabriele Volani (team leader), Federico Menegoz e Giulio Lo Cigno.
+
+Progetto consegnato il 20 gennaio 2023. Esito progetto: 30 e lode.
