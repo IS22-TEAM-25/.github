@@ -6,3 +6,5 @@ In questa organizzazione si trovano tutte le repository con i documenti di proge
 Team-25 composto da: Gabriele Volani (team leader), Federico Menegoz e Giulio Lo Cigno.
 
 Progetto consegnato il 2 gennaio 2023. Esito progetto: 30 e lode.
+
+Non è stato facile, ma siamo stati il top.
